@@ -1,0 +1,12 @@
+{
+    "manifest_version":3,
+    "name":"Prueba d",
+    "version":"1.0",
+    "description":"Revision de cleintes",
+    "icons":{
+        "128":"huella-dactilar.png"
+    },
+    "action":{
+        "default_popup":"EjemploSelect.html"
+    }
+}
